@@ -1,0 +1,1 @@
+Aim: Investigate what happens to gradients near converged/optimed param

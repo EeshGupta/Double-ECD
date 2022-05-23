@@ -1,0 +1,7 @@
+Aim: Take optimized single ECD param and feed them as initial param into DECD
+
+Issues: 
+1. Old DECD and new DECD (with block operator edits) don't give same fidelity for same param
+Currently I will use old DECD 
+
+2. (Try 2 Notebooks) debugged error in set_tf_vars... gamma command had beta argument, fixed error in DECD_Old

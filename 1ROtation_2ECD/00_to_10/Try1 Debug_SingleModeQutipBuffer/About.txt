@@ -1,0 +1,1 @@
+Aim: If introduce buffer times, does that affect cavity state when read out???

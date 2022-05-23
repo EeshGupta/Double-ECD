@@ -1,0 +1,4 @@
+May 17, 2022
+Aim was to use optimized param of past runs as initial parameters for new optimization runs. But the result was, when we do feed forward, we go down in fidelity not up. So opt run would just stop at the first epoch since we don't improve. 
+
+TODO Next: Investigate gradients of cost fucntion at the optimized param
